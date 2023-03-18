@@ -1,2 +1,3 @@
-# TailWind-Project
-Getting to learn TailWind CSS
+# NativeWind-Project
+
+Getting to learn NativeWind
