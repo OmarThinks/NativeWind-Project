@@ -3,8 +3,8 @@ import React from 'react';
 
 const App = () => {
   return (
-    <View className="bg-black flex-1 justify-center align-middle">
-      <Text className="text-green-300 text-3xl font-bold underline bg-green-950 text-center shrink self-center">
+    <View className="flex-1 justify-center bg-black align-middle">
+      <Text className="shrink self-center bg-green-950 text-center text-3xl font-bold text-green-300 underline">
         App
       </Text>
     </View>
